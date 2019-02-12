@@ -29,5 +29,6 @@ Lucas Beatty - Designer/Developer - Created the wireframes for the site and the 
 
 * Banners swoops have not been added from the design
 
+* About page the design doesn't currently match the web page due to missing the headshots needed
 
 
